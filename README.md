@@ -1,4 +1,4 @@
-## Deploy ElasticBeanstalk using Terraform
+## Create VPC with Subnet in GCP using Terraform
 
 Following are the files that are needed:
 ```
